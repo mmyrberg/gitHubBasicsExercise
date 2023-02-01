@@ -4,3 +4,6 @@ Salmon
 Flight
 The dark knight
 Inception
+Guitar
+Piano
+Saxophone
