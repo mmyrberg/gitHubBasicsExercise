@@ -1,2 +1,2 @@
 # gitHubBasicsExercise
-> Enkel övningsuppgift i Udemy-kursen *The Git & Github Bootcamp*
+> Övningsuppgift från Udemy-kursen *The Git & Github Bootcamp*
